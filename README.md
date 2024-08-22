@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Juan Pablo Cárdenas González</h1>
+<h1 align="center">Hi 👋, I'm Juan Pablo Cárdenas González</h1>
 <h3 align="center">I am a civil engineer passionate about programming. I decided to delve into the tech world because I found it incredibly interesting and aligned with my personal goals. Additionally, I am an enthusiastic learner and enjoy contributing in any work setting I find myself in.</h3>
 
 <h3 align="left">Connect with me:</h3>
